@@ -1,0 +1,1 @@
+Get-WmiObject -Namespace "root\cimv2" -Class Win32_Process -ComputerName abcdef.com
